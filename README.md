@@ -1,5 +1,5 @@
 # Mtech_Thesis
-BIM BASED DESIGN OF REINFORCED CONCRETE COLUMN
+BIM BASED DESIGN OF REINFORCED CONCRETE COLUMN USING THE DATA AVAILABLE BY IFC
 
 
 1. Install Oct2py, Numply and Scipy libraries in python using command window.
